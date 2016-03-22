@@ -1,0 +1,10 @@
+{
+	"title" : "Schema Mail",
+	"type" : "object",
+	
+	"properties" : {
+		"entreprise" : "string" ,
+		"email" : "string" ,
+		"message" : "string"		
+	}	
+}
